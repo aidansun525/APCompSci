@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-    
+
         output("Palindrome");
         output("Civic");
         output("Radar");
@@ -26,16 +26,16 @@ public class Main {
         int len = ignoreAll.length();
         boolean palindrome = true;
         int n = 1;
-        
+
         do {
             if(palindrome) {
-                String sub1 = ignoreAll.substring(len - n, len - n + 1);
-                String sub2 = ignoreAll.substring(n - 1, n);
-                palindrome = sub1.equalsIgnoreCase(sub2);
+                char bwdChar = ignoreAll.charAt(len - n);
+                char fwdChar = ignoreAll.charAt(n - 1);
+                palindrome = Character.toString(bwdChar).equalsIgnoreCase(Character.toString(fwdChar));
             }
             n++;
         } while (n<=(int)(len/2.0));
-        
+
         return palindrome;
     }
 }
