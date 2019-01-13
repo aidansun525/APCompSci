@@ -1,0 +1,11 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=52291:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Xufeng\IdeaProjects\CSPalindrome\out\production\CSPalindrome Main
+False!  "Palindrome" is not a palindrome!
+True!  "Civic" is a palindrome!
+True!  "Radar" is a palindrome!
+True!  "Level" is a palindrome!
+True!  "Eva, can I stab bats in a cave?" is a palindrome!
+True!  "Mr. Owl ate my metal worm" is a palindrome!
+True!  "Never odd or even" is a palindrome!
+True!  "Doc, Note: I Dissent. A fast never prevents a fatness. I diet on cod." is a palindrome!
+
+Process finished with exit code 0
