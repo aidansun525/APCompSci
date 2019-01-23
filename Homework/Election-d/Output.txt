@@ -1,0 +1,29 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=5146:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CSassignment13\out\production\CSassignment13 Main
+There are 250 valid votes.
+
+Mordy Golding has 72 votes.
+Shira Gotshalk has 61 votes.
+Stephanie Evans has 57 votes.
+Ray Villalobos has 60 votes.
+Mordy Golding won!
+
+Dona Sarkar has 68 votes.
+Tyler Ahn has 67 votes.
+Joe Camp has 59 votes.
+Brandon LeBlanc has 56 votes.
+Dona Sarkar won!
+
+Jason Howard has 67 votes.
+Nikki Rubino has 68 votes.
+Peggy Fisher has 54 votes.
+Neil Edde has 61 votes.
+Nikki Rubino won!
+
+David Gassner has 68 votes.
+Sharon Bennett has 67 votes.
+Walt Ritscher has 59 votes.
+Heather Hurley has 56 votes.
+David Gassner won!
+
+
+Process finished with exit code 0
