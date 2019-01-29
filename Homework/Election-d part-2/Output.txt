@@ -1,0 +1,21 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=3041:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CSelection\out\production\CSelection Main
+Dona Sarkar has 66 votes.
+Tyler Ahn has 64 votes.
+Joe Camp has 57 votes.
+Brandon LeBlanc has 55 votes.
+Dona Sarkar won!
+
+Jason Howard has 66 votes.
+Nikki Rubino has 64 votes.
+Peggy Fisher has 53 votes.
+Neil Edde has 59 votes.
+Jason Howard won!
+
+David Gassner has 66 votes.
+Sharon Bennett has 64 votes.
+Walt Ritscher has 57 votes.
+Heather Hurley has 55 votes.
+David Gassner won!
+
+
+Process finished with exit code 0
