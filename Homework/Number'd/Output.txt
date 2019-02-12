@@ -1,0 +1,9 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=5972:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CS20190211\out\production\CS20190211 Main
+0:Binary:   Octal:   Hexadecimal: 
+1:Binary:1   Octal:1   Hexadecimal: 1
+63:Binary:111111   Octal:77   Hexadecimal: 3F
+127:Binary:1111111   Octal:177   Hexadecimal: 7F
+255:Binary:11111111   Octal:377   Hexadecimal: FF
+256:Binary:000000001   Octal:400   Hexadecimal: 100
+
+Process finished with exit code 0
