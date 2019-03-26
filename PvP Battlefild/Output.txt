@@ -1,0 +1,19 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=3994:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath D:\CSPvP\out\production\CSPvP Main
+A fighter named apple has just been created!
+A priest named banana has just been created!
+A paladin named coconut has just been created!
+A mage named durian has just been created!
+
+4 characters have been created.
+
+Here is a Priest.
+banana, a Priest:
+CHA:  14 
+ HP:  11/ 11
+ MP:  46/ 46
+STR:  11
+INT:  18
+AGI:  11
+
+
+Process finished with exit code 0
