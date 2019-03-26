@@ -19,11 +19,10 @@ public class Fighter extends PlayerCharacter{
         mp = mpmax = 0;
     }
 
-    public void showStats(){
+   public void showStats() {
         System.out.printf("%s, a Fighter:\n", name);
-        System.out.printf("STR: %3d    INT: %3d    AGI: %3d    CON: %3d\n", strength, intelligence, agility, constitution);
-        System.out.printf(" HP: %3d/%3d\n", hp, hpmax);
-        System.out.printf(" MP: %3d/%3d\n\n", mp, mpmax);
+        System.out.printf("CON: %3d \n", constitution);
+        super.showStats();
     }
 
 }
