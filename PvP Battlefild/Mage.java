@@ -2,7 +2,7 @@ import java.util.Random;
 
 public class Mage extends PlayerCharacter{
 
-    int wisdom;
+    private int wisdom;
 
     public Mage(String newName){
         name = newName;
@@ -19,10 +19,9 @@ public class Mage extends PlayerCharacter{
         mp = mpmax = intelligence + 2*wisdom;
     }
 
-    public void showstats() {
+   public void showStats() {
         System.out.printf("%s, a Mage:\n", name);
-        System.out.printf("STR: %3d    INT: %3d    AGI: %3d    WIS: %3d\n", strength, intelligence, agility, wisdom);
-        System.out.printf(" HP: %3d/%3d\n", hp, hpmax);
-        System.out.printf(" MP: %3d/%3d\n\n",mp, mpmax);
+        System.out.printf("WIS: %3d \n", wisdom);
+        super.showStats();
     }
 }
