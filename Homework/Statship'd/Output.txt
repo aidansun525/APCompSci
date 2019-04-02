@@ -1,0 +1,34 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=52390:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\Xufeng\IdeaProjects\CS20190401\out\production\CS20190401 Main
+Overall available fleet:
+        Reliant:	Hull: 1099	Shields: 2836	Beam Weapons: 2940	Torpedoes: 11
+     Enterprise:	Hull: 1503	Shields: 2087	Beam Weapons: 2971	Torpedoes: 25
+       Yorktown:	Hull: 2488	Shields: 2479	Beam Weapons: 3251	Torpedoes: 21
+       Saratoga:	Hull: 3671	Shields: 1723	Beam Weapons: 4468	Torpedoes: 43
+        Voyager:	Hull: 1192	Shields: 2793	Beam Weapons: 2938	Torpedoes: 12
+      Discovery:	Hull: 1549	Shields: 2280	Beam Weapons: 3234	Torpedoes: 24
+   Constitution:	Hull: 2387	Shields: 2149	Beam Weapons: 3888	Torpedoes: 28
+  Constellation:	Hull: 3180	Shields: 1575	Beam Weapons: 4543	Torpedoes: 49
+        Grissom:	Hull: 1203	Shields: 2615	Beam Weapons: 2783	Torpedoes: 18
+        Defiant:	Hull: 1991	Shields: 2081	Beam Weapons: 2754	Torpedoes: 20
+       Intrepid:	Hull: 2428	Shields: 2457	Beam Weapons: 3544	Torpedoes: 23
+        Britaan:	Hull: 4140	Shields: 1599	Beam Weapons: 4770	Torpedoes: 40
+      Stargazer:	Hull: 1109	Shields: 3314	Beam Weapons: 2512	Torpedoes: 10
+         Yamato:	Hull: 1706	Shields: 2283	Beam Weapons: 2688	Torpedoes: 24
+         Galaxy:	Hull: 2134	Shields: 2426	Beam Weapons: 3331	Torpedoes: 28
+     Ambassador:	Hull: 3766	Shields: 1963	Beam Weapons: 4829	Torpedoes: 45
+         Nimitz:	Hull: 1023	Shields: 2784	Beam Weapons: 2555	Torpedoes: 16
+        Equinox:	Hull: 1830	Shields: 2076	Beam Weapons: 2567	Torpedoes: 22
+     Relativity:	Hull: 2147	Shields: 2262	Beam Weapons: 3622	Torpedoes: 21
+     Challenger:	Hull: 3426	Shields: 1516	Beam Weapons: 4836	Torpedoes: 43
+Defense Battalion:
+      Stargazer:	Hull: 1109	Shields: 3314	Beam Weapons: 2512	Torpedoes: 10
+        Defiant:	Hull: 1991	Shields: 2081	Beam Weapons: 2754	Torpedoes: 20
+         Yamato:	Hull: 1706	Shields: 2283	Beam Weapons: 2688	Torpedoes: 24
+        Voyager:	Hull: 1192	Shields: 2793	Beam Weapons: 2938	Torpedoes: 12
+Offense Battalion:
+        Britaan:	Hull: 4140	Shields: 1599	Beam Weapons: 4770	Torpedoes: 40
+     Ambassador:	Hull: 3766	Shields: 1963	Beam Weapons: 4829	Torpedoes: 45
+       Saratoga:	Hull: 3671	Shields: 1723	Beam Weapons: 4468	Torpedoes: 43
+       Yorktown:	Hull: 2488	Shields: 2479	Beam Weapons: 3251	Torpedoes: 21
+
+Process finished with exit code 0
